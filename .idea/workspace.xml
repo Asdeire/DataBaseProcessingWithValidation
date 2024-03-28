@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="535b941b-06b0-4a0d-a121-7d8a627cf806" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBaseProcessingWithValidation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/data_access/DeliveryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/data_access/LetterDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/data_access/MailboxDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/data_access/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/entity/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/entity/Letter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/entity/Mailbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/service/EmailValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/service/MailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/service/UsernameValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/service/builders/ValidationBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/service/chains/ValidatorChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/asdeire/db_data_processing/service/impl/Validator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2eJbGkme0mDpVtCmM6IH7LdppOQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/oleks/IdeaProjects/DataBaseProcessingWithValidation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oleks\IdeaProjects\DataBaseProcessingWithValidation" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="535b941b-06b0-4a0d-a121-7d8a627cf806" name="Changes" comment="" />
+      <created>1711625538232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711625538232</updated>
+      <workItem from="1711625539670" duration="1098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
