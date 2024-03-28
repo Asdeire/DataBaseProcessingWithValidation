@@ -23,4 +23,4 @@ This practical work focuses on the practical implementation of external data pro
 - Ensure your code adheres to the established validation methods and principles.
 - Submit a pull request.
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
